@@ -14,3 +14,4 @@
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Accepted](solutions/237. Delete Node in a Linked List.md) |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Accepted](solutions/100. Same Tree.md) |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Accepted](solutions/171. Excel Sheet Column Number.md) |
+| **[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)** | [Accepted](solutions/242. Valid Anagram.md) |
