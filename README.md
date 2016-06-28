@@ -11,3 +11,4 @@
 | **[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)** | [Accepted](solutions/226. Invert Binary Tree.md) |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Accepted](solutions/349. Intersection of Two Arrays.md) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Accepted](solutions/104. Maximum Depth of Binary Tree.md) |
+| [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Accepted](solutions/237. Delete Node in a Linked List.md) |
