@@ -15,3 +15,4 @@
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Accepted](solutions/100. Same Tree.md) |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Accepted](solutions/171. Excel Sheet Column Number.md) |
 | **[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)** | [Accepted](solutions/242. Valid Anagram.md) |
+| **[169. Majority Element](https://leetcode.com/problems/majority-element/)** | [Accepted](solutions/169. Majority Element.md) |
