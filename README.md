@@ -16,3 +16,4 @@
 | 171. Excel Sheet Column Number | [Accepted](solutions/171. Excel Sheet Column Number.md) |
 | **242. Valid Anagram** | [Accepted](solutions/242. Valid Anagram.md) |
 | **169. Majority Element** | [Accepted](solutions/169. Majority Element.md) |
+| **217. Contains Duplicate** | [Thinking](solutions/217. Contains Duplicate.md) |
