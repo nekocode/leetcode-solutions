@@ -21,3 +21,5 @@
 | 206. Reverse Linked List | [Accepted](solutions/206. Reverse Linked List.md) |
 | 191. Number of 1 Bits | [Accepted && Thinking](solutions/191. Number of 1 Bits.md) |
 | 83. Remove Duplicates from Sorted List | [Accepted](solutions/83. Remove Duplicates from Sorted List.md) |
+| 371. Sum of Two Integers | [Doing](solutions/371. Sum of Two Integers.md) |
+| 231. Power of Two | [Accepted](solutions/231. Power of Two.md) |
