@@ -19,4 +19,5 @@
 | **217. Contains Duplicate** | [Thinking](solutions/217. Contains Duplicate.md) |
 | 350. Intersection of Two Arrays II | [Accepted](solutions/350. Intersection of Two Arrays II.md) |
 | 206. Reverse Linked List | [Accepted](solutions/206. Reverse Linked List.md) |
-| 191. Number of 1 Bits | [Accepted](solutions/191. Number of 1 Bits.md) |
+| 191. Number of 1 Bits | [Accepted && Thinking](solutions/191. Number of 1 Bits.md) |
+| 83. Remove Duplicates from Sorted List | [Accepted](solutions/83. Remove Duplicates from Sorted List.md) |
