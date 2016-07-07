@@ -23,3 +23,4 @@
 | 83. Remove Duplicates from Sorted List | [Accepted](solutions/83. Remove Duplicates from Sorted List.md) |
 | 371. Sum of Two Integers | [Doing](solutions/371. Sum of Two Integers.md) |
 | 231. Power of Two | [Accepted](solutions/231. Power of Two.md) |
+| 326. Power of Three | [Accepted](solutions/326. Power of Three.md) |
