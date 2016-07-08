@@ -25,3 +25,4 @@
 | **231. Power of Two** | [Accepted](solutions/231. Power of Two.md) |
 | 326. Power of Three | [Accepted](solutions/326. Power of Three.md) |
 | **235. Lowest Common Ancestor of a Binary Search Tree** | [Accepted](solutions/235. Lowest Common Ancestor of a Binary Search Tree.md) |
+| 141. Linked List Cycle | [Accepted && Thinking](solutions/141. Linked List Cycle.md) |
