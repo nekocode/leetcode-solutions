@@ -26,4 +26,4 @@
 | 326. Power of Three | [Accepted](solutions/326. Power of Three.md) |
 | **235. Lowest Common Ancestor of a Binary Search Tree** | [Accepted](solutions/235. Lowest Common Ancestor of a Binary Search Tree.md) |
 | 141. Linked List Cycle | [Accepted && Thinking](solutions/141. Linked List Cycle.md) |
-| 121. Best Time to Buy and Sell Stock | [Doing](solutions/121. Best Time to Buy and Sell Stock.md) |
+| **121. Best Time to Buy and Sell Stock** | [Doing](solutions/121. Best Time to Buy and Sell Stock.md) |
