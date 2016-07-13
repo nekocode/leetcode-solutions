@@ -16,7 +16,7 @@
 | 171. Excel Sheet Column Number | [Accepted](solutions/171. Excel Sheet Column Number.md) |
 | **242. Valid Anagram** | [Accepted](solutions/242. Valid Anagram.md) |
 | **169. Majority Element** | [Accepted](solutions/169. Majority Element.md) |
-| **217. Contains Duplicate** | [Thinking](solutions/217. Contains Duplicate.md) |
+| **217. Contains Duplicate** | [Accepted & Thinking](solutions/217. Contains Duplicate.md) |
 | 350. Intersection of Two Arrays II | [Accepted](solutions/350. Intersection of Two Arrays II.md) |
 | 206. Reverse Linked List | [Accepted](solutions/206. Reverse Linked List.md) |
 | **191. Number of 1 Bits** | [Accepted](solutions/191. Number of 1 Bits.md) |
@@ -25,5 +25,5 @@
 | **231. Power of Two** | [Accepted](solutions/231. Power of Two.md) |
 | 326. Power of Three | [Accepted](solutions/326. Power of Three.md) |
 | **235. Lowest Common Ancestor of a Binary Search Tree** | [Accepted](solutions/235. Lowest Common Ancestor of a Binary Search Tree.md) |
-| 141. Linked List Cycle | [Accepted && Thinking](solutions/141. Linked List Cycle.md) |
-| **121. Best Time to Buy and Sell Stock** | [Doing](solutions/121. Best Time to Buy and Sell Stock.md) |
+| **141. Linked List Cycle** | [Accepted](solutions/141. Linked List Cycle.md) |
+| **121. Best Time to Buy and Sell Stock** | [Accepted](solutions/121. Best Time to Buy and Sell Stock.md) |
