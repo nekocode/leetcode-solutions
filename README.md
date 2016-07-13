@@ -27,3 +27,4 @@
 | **235. Lowest Common Ancestor of a Binary Search Tree** | [Accepted](solutions/235. Lowest Common Ancestor of a Binary Search Tree.md) |
 | **141. Linked List Cycle** | [Accepted](solutions/141. Linked List Cycle.md) |
 | **121. Best Time to Buy and Sell Stock** | [Accepted](solutions/121. Best Time to Buy and Sell Stock.md) |
+| **21. Merge Two Sorted Lists** | [Accepted](solutions/21. Merge Two Sorted Lists.md) |
