@@ -28,4 +28,5 @@
 | **141. Linked List Cycle** | [Accepted](solutions/141. Linked List Cycle.md) |
 | **121. Best Time to Buy and Sell Stock** | [Accepted](solutions/121. Best Time to Buy and Sell Stock.md) |
 | **21. Merge Two Sorted Lists** | [Accepted](solutions/21. Merge Two Sorted Lists.md) |
-| **345. Reverse Vowels of a String** | [Accepted](solutions/345. Reverse Vowels of a String.md) |
+| 345. Reverse Vowels of a String | [Accepted](solutions/345. Reverse Vowels of a String.md) |
+| 24. Swap Nodes in Pairs | [Accepted](solutions/24. Swap Nodes in Pairs.md) |
