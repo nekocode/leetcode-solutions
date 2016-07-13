@@ -30,3 +30,5 @@
 | **21. Merge Two Sorted Lists** | [Accepted](solutions/21. Merge Two Sorted Lists.md) |
 | 345. Reverse Vowels of a String | [Accepted](solutions/345. Reverse Vowels of a String.md) |
 | 24. Swap Nodes in Pairs | [Accepted](solutions/24. Swap Nodes in Pairs.md) |
+| 342. Power of Four | [Accepted](solutions/342. Power of Four.md) |
+| 107. Binary Tree Level Order Traversal II | [Accepted](solutions/107. Binary Tree Level Order Traversal II.md) |
