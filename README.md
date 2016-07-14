@@ -42,3 +42,4 @@
 | 102. Binary Tree Level Order Traversal | [Accepted](solutions/102. Binary Tree Level Order Traversal.md) |
 | **374. Guess Number Higher or Lower** | [Accepted](solutions/374. Guess Number Higher or Lower.md) |
 | **8. String to Integer (atoi)** | [Accepted](solutions/8. String to Integer (atoi).md) |
+| **112. Path Sum** | [Accepted](solutions/112. Path Sum.md) |
