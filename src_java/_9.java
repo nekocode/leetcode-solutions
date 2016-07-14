@@ -6,38 +6,25 @@ import java.util.ArrayList;
 public class _9 {
     public boolean isPalindrome(int x) {
         if (x < 0) return false;
-        else if (x < 10) return true;
 
-        ArrayList<Integer> diviNums = new ArrayList<>();
-        int diviNum = x;
+        int digits[] = new int[100];
+        int p = 0;
         while (true) {
-            diviNum = diviNum / 10;
-            if (diviNum == 0) break;
-            diviNums.add(diviNum);
-        }
-        // 得出数字的长度
-        int numLen = diviNums.size() + 1;
-
-        int digits[] = new int[numLen];
-        int p = numLen - 1;
-        // 获取个位数
-        digits[p--] = x % 10;
-
-        // 获取其他位数
-        for (int dn : diviNums) {
-            digits[p--] = dn % 10;
+            digits[p++] = x % 10;
+            x /= 10;
+            if (x == 0) break;
         }
 
         // 判断是否为回文
-        int half = numLen / 2;
+        int half = p / 2;
         for (int i = 0; i < half; i ++) {
-            if (digits[i] != digits[numLen - 1 - i]) return false;
+            if (digits[i] != digits[p - 1 - i]) return false;
         }
 
         return true;
     }
 
     public static void main(String[] args) {
-        System.out.print(new _9().isPalindrome(1122));
+        System.out.print(new _9().isPalindrome(2147483647));
     }
 }
