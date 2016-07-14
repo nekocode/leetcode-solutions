@@ -35,3 +35,4 @@
 | 27. Remove Element | [Accepted](solutions/27. Remove Element.md) |
 | 101. Symmetric Tree | [Accepted](solutions/101. Symmetric Tree.md) |
 | 66. Plus One | [Accepted](solutions/66. Plus One.md) |
+| **110. Balanced Binary Tree** | [Accepted](solutions/110. Balanced Binary Tree.md) |
