@@ -39,3 +39,5 @@
 | 118. Pascal's Triangle | [Accepted](solutions/118. Pascal's Triangle.md) |
 | **232. Implement Queue using Stacks** | [Accepted](solutions/232. Implement Queue using Stacks.md) |
 | 26. Remove Duplicates from Sorted Array | [Accepted](solutions/26. Remove Duplicates from Sorted Array.md) |
+| 102. Binary Tree Level Order Traversal | [Accepted](solutions/102. Binary Tree Level Order Traversal.md) |
+| **374. Guess Number Higher or Lower** | [Accepted](solutions/374. Guess Number Higher or Lower.md) |
