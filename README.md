@@ -34,3 +34,4 @@
 | 107. Binary Tree Level Order Traversal II | [Accepted](solutions/107. Binary Tree Level Order Traversal II.md) |
 | 27. Remove Element | [Accepted](solutions/27. Remove Element.md) |
 | 101. Symmetric Tree | [Accepted](solutions/101. Symmetric Tree.md) |
+| 66. Plus One | [Accepted](solutions/66. Plus One.md) |
