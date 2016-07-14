@@ -44,4 +44,4 @@
 | **8. String to Integer (atoi)** | [Accepted](solutions/8. String to Integer (atoi).md) |
 | **112. Path Sum** | [Accepted](solutions/112. Path Sum.md) |
 | **36. Valid Sudoku** | [Accepted](solutions/36. Valid Sudoku.md) |
-| **9. Palindrome Number** | [Accepted & Thiking](solutions/9. Palindrome Number.md) |
+| **9. Palindrome Number** | [Accepted & Thinking](solutions/9. Palindrome Number.md) |
