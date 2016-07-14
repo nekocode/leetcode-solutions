@@ -38,3 +38,4 @@
 | **110. Balanced Binary Tree** | [Accepted](solutions/110. Balanced Binary Tree.md) |
 | 118. Pascal's Triangle | [Accepted](solutions/118. Pascal's Triangle.md) |
 | **232. Implement Queue using Stacks** | [Accepted](solutions/232. Implement Queue using Stacks.md) |
+| 26. Remove Duplicates from Sorted Array | [Accepted](solutions/26. Remove Duplicates from Sorted Array.md) |
