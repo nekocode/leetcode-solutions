@@ -36,3 +36,5 @@
 | 101. Symmetric Tree | [Accepted](solutions/101. Symmetric Tree.md) |
 | 66. Plus One | [Accepted](solutions/66. Plus One.md) |
 | **110. Balanced Binary Tree** | [Accepted](solutions/110. Balanced Binary Tree.md) |
+| 118. Pascal's Triangle | [Accepted](solutions/118. Pascal's Triangle.md) |
+| **232. Implement Queue using Stacks** | [Accepted](solutions/232. Implement Queue using Stacks.md) |
