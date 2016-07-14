@@ -45,3 +45,4 @@
 | **112. Path Sum** | [Accepted](solutions/112. Path Sum.md) |
 | **36. Valid Sudoku** | [Accepted](solutions/36. Valid Sudoku.md) |
 | **9. Palindrome Number** | [Accepted & Thinking](solutions/9. Palindrome Number.md) |
+| 111. Minimum Depth of Binary Tree | [Accepted & Thinking](solutions/111. Minimum Depth of Binary Tree.md) |
