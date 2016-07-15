@@ -49,3 +49,9 @@
 | 258. Add Digits | [Accepted](solutions/258. Add Digits.md) |
 | 225. Implement Stack using Queues | [Accepted](solutions/225. Implement Stack using Queues.md) |
 | **205. Isomorphic Strings** | [Accepted](solutions/205. Isomorphic Strings.md) |
+
+### Hard
+
+| Problem | My Solution |
+| :-- | :-- |
+| **65. Valid Number** | [Accepted](solutions/65. Valid Number.md) |
