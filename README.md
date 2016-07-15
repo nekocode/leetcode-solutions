@@ -47,3 +47,5 @@
 | **9. Palindrome Number** | [Accepted & Thinking](solutions/9. Palindrome Number.md) |
 | 111. Minimum Depth of Binary Tree | [Accepted](solutions/111. Minimum Depth of Binary Tree.md) |
 | 258. Add Digits | [Accepted](solutions/258. Add Digits.md) |
+| 225. Implement Stack using Queues | [Accepted](solutions/225. Implement Stack using Queues.md) |
+| **205. Isomorphic Strings** | [Accepted](solutions/205. Isomorphic Strings.md) |
