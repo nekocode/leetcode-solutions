@@ -46,3 +46,4 @@
 | **36. Valid Sudoku** | [Accepted](solutions/36. Valid Sudoku.md) |
 | **9. Palindrome Number** | [Accepted & Thinking](solutions/9. Palindrome Number.md) |
 | 111. Minimum Depth of Binary Tree | [Accepted](solutions/111. Minimum Depth of Binary Tree.md) |
+| 258. Add Digits | [Accepted](solutions/258. Add Digits.md) |
