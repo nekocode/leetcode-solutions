@@ -52,6 +52,8 @@
 | **223. Rectangle Area** | [Accepted](solutions/223. Rectangle Area.md) |
 | 219. Contains Duplicate II | [Accepted](solutions/219. Contains Duplicate II.md) |
 | 88. Merge Sorted Array | [Accepted](solutions/88. Merge Sorted Array.md) |
+| **160. Intersection of Two Linked Lists** | [Accepted](solutions/160. Intersection of Two Linked Lists.md) |
+| 19. Remove Nth Node From End of List | [Accepted](solutions/19. Remove Nth Node From End of List.md) |
 
 
 ### Hard
