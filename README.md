@@ -49,7 +49,9 @@
 | 258. Add Digits | [Accepted](solutions/258. Add Digits.md) |
 | 225. Implement Stack using Queues | [Accepted](solutions/225. Implement Stack using Queues.md) |
 | **205. Isomorphic Strings** | [Accepted](solutions/205. Isomorphic Strings.md) |
-| 223. Rectangle Area | [Accepted](solutions/223. Rectangle Area.md) |
+| **223. Rectangle Area** | [Accepted](solutions/223. Rectangle Area.md) |
+| 219. Contains Duplicate II | [Accepted](solutions/219. Contains Duplicate II.md) |
+| 88. Merge Sorted Array | [Accepted](solutions/88. Merge Sorted Array.md) |
 
 
 ### Hard
