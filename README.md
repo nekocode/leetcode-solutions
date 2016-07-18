@@ -55,6 +55,7 @@
 | **160. Intersection of Two Linked Lists** | [Accepted](solutions/160. Intersection of Two Linked Lists.md) |
 | 19. Remove Nth Node From End of List | [Accepted](solutions/19. Remove Nth Node From End of List.md) |
 | **290. Word Pattern** | [Accepted](solutions/290. Word Pattern.md) |
+| **257. Binary Tree Paths** | [Accepted](solutions/257. Binary Tree Paths.md) |
 
 
 ### Hard
