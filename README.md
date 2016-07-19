@@ -56,6 +56,15 @@
 | 19. Remove Nth Node From End of List | [Accepted](solutions/19. Remove Nth Node From End of List.md) |
 | **290. Word Pattern** | [Accepted](solutions/290. Word Pattern.md) |
 | **257. Binary Tree Paths** | [Accepted](solutions/257. Binary Tree Paths.md) |
+| **20. Valid Parentheses** | [Accepted](solutions/20. Valid Parentheses.md) |
+| **38. Count and Say** | [Accepted](solutions/38. Count and Say.md) |
+
+
+### Medium
+
+| Problem | My Solution |
+| :-- | :-- |
+| **355. Design Twitter** | [Accepted](solutions/355. Design Twitter.md) |
 
 
 ### Hard
