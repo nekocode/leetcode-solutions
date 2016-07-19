@@ -58,6 +58,10 @@
 | **257. Binary Tree Paths** | [Accepted](solutions/257. Binary Tree Paths.md) |
 | **20. Valid Parentheses** | [Accepted](solutions/20. Valid Parentheses.md) |
 | **38. Count and Say** | [Accepted](solutions/38. Count and Say.md) |
+| 58. Length of Last Word | [Accepted](solutions/58. Length of Last Word.md) |
+| 203. Remove Linked List Elements | [Accepted](solutions/203. Remove Linked List Elements.md) |
+| **190. Reverse Bits** | [Accepted](solutions/190. Reverse Bits.md) |
+| 234. Palindrome Linked List | [Accepted](solutions/234. Palindrome Linked List.md) |
 
 
 ### Medium
