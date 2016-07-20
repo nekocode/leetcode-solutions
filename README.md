@@ -62,6 +62,12 @@
 | 203. Remove Linked List Elements | [Accepted](solutions/203. Remove Linked List Elements.md) |
 | **190. Reverse Bits** | [Accepted](solutions/190. Reverse Bits.md) |
 | **234. Palindrome Linked List** | [Accepted](solutions/234. Palindrome Linked List.md) |
+| **14. Longest Common Prefix** | [Accepted](solutions/14. Longest Common Prefix.md) |
+| **67. Add Binary** | [Accepted](solutions/67. Add Binary.md) |
+| 28. Implement strStr() | [Accepted](solutions/28. Implement strStr().md) |
+| 303. Range Sum Query - Immutable | [Accepted & Thinking](solutions/303. Range Sum Query - Immutable.md) |
+| **204. Count Primes** | [Accepted & Thinking](solutions/204. Count Primes.md) |
+| 1. Two Sum| [Accepted](solutions/1. Two Sum.md) |
 
 
 ### Medium
