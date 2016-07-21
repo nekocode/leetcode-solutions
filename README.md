@@ -70,6 +70,12 @@
 | 1. Two Sum | [Accepted](solutions/1. Two Sum.md) |
 | 155. Min Stack  | [Accepted](solutions/155. Min Stack.md) |
 | 6. ZigZag Conversion | [Accepted](solutions/6. ZigZag Conversion.md) |
+| 125. Valid Palindrome | [Accepted](solutions/125. Valid Palindrome.md) |
+| 7. Reverse Integer | [Accepted](solutions/7. Reverse Integer.md) |
+| **278. First Bad Version** | [Accepted](solutions/278. First Bad Version.md) |
+| 189. Rotate Array | [Accepted](solutions/189. Rotate Array.md) |
+| 168. Excel Sheet Column Title | [Accepted](solutions/168. Excel Sheet Column Title.md) |
+| 165. Compare Version Numbers | [Accepted](solutions/165. Compare Version Numbers.md) |
 
 
 ### Medium
