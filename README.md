@@ -83,7 +83,10 @@
 | Problem | My Solution |
 | :-- | :-- |
 | **355. Design Twitter** | [Accepted](solutions/355. Design Twitter.md) |
-
+| 338. Counting Bits | [Accepted](solutions/338. Counting Bits.md) |
+| 136. Single Number | [Accepted](solutions/136. Single Number.md) |
+| 260. Single Number III | [Accepted](solutions/260. Single Number III.md) |
+| **238. Product of Array Except Self** | [Accepted & Thinking](solutions/238. Product of Array Except Self.md) |
 
 ### Hard
 
