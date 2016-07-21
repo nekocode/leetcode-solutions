@@ -67,7 +67,9 @@
 | 28. Implement strStr() | [Accepted](solutions/28. Implement strStr().md) |
 | 303. Range Sum Query - Immutable | [Accepted & Thinking](solutions/303. Range Sum Query - Immutable.md) |
 | **204. Count Primes** | [Accepted & Thinking](solutions/204. Count Primes.md) |
-| 1. Two Sum| [Accepted](solutions/1. Two Sum.md) |
+| 1. Two Sum | [Accepted](solutions/1. Two Sum.md) |
+| 155. Min Stack  | [Accepted](solutions/155. Min Stack.md) |
+| 6. ZigZag Conversion | [Accepted](solutions/6. ZigZag Conversion.md) |
 
 
 ### Medium
