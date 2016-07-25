@@ -87,6 +87,7 @@
 | 136. Single Number | [Accepted](solutions/136. Single Number.md) |
 | 260. Single Number III | [Accepted](solutions/260. Single Number III.md) |
 | **238. Product of Array Except Self** | [Accepted & Thinking](solutions/238. Product of Array Except Self.md) |
+| 367. Valid Perfect Square | [Doing](solutions/367. Valid Perfect Square.md) |
 
 ### Hard
 
